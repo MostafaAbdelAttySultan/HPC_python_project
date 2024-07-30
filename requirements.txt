@@ -1,0 +1,4 @@
+jsons
+requests
+re
+prettytable
