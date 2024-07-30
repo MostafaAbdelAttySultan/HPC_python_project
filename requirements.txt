@@ -1,4 +1,3 @@
 jsons
 requests
-re
 prettytable
