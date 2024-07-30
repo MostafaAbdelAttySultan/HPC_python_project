@@ -11,7 +11,7 @@ t.add_row(['Temperature K', temp])
 t.add_row(['Feels like C', (float(feels_like) - 273)])
 t.add_row(['Pressure', pressure])
 t.add_row(['Humidity', hum])
-with open('wearher_data.txt', 'w') as f:
+with open('weather_data.txt', 'w') as f:
     f.write(t.get_string())
 
 
